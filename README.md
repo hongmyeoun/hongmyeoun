@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 </p>
 
 ### :pencil2: STUDYING
@@ -41,6 +42,8 @@
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-000000?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-000000?style=flat&logo=flutter&logoColor=white"/>
 </p>
 
 <br/>
